@@ -71,7 +71,7 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'BEAR'
+global.packname = '<3'
 global.author = 'ADRIEN'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = ''
@@ -82,7 +82,7 @@ global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Wait Senpai..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
